@@ -1,5 +1,5 @@
 //source of b2p (VoLT)
-//recode by CPAMX
+//recode by PAMF!X
 
 #include <windows.h>
 #include <shlwapi.h>
