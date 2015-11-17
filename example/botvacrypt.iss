@@ -1,7 +1,6 @@
 [Setup]
 AppName=exec
 AppVerName=0.1.0.0      
-AppPublisher=foqus-dx
 CreateAppDir=no
 OutputBaseFilename=setup
 Compression=lzma
