@@ -1,5 +1,5 @@
 //source of b2p (VoLT)
-//by foqus-dx
+//recode by CPAMX
 
 #include <windows.h>
 #include <shlwapi.h>
