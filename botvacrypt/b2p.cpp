@@ -1,5 +1,7 @@
-//source of b2p (VoLT)
-//recode by Syzor
+//botva2crypt - Inno Setup plugin for protect image's
+//work with original botva2.dll
+//by samplex
+//have a nice day :-)
 
 #include <windows.h>
 #include <shlwapi.h>
